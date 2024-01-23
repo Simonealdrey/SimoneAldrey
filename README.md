@@ -1,13 +1,13 @@
 ## Bem-vindo ao meu perfil 
 
-👱🏼‍♀️ Meu nome é Simone Aldrey Angelo, sou mestre e doutora em Pesquisa Operacional na área de Estatística. Ao término de minha trajetória acadêmica percebi a grande afinidade do conteúdo ora estudado com a Ciência de Dados. Assim, sigo estudando esta ampla área do conhecimento. Percebi que tudo é uma continuação de saberes, vamos em frente!
+👱🏼‍♀️ Meu nome é Simone Aldrey Angelo, sou mestre e doutora em Pesquisa Operacional na área de Estatística. Ao término de minha trajetória acadêmica percebi a grande afinidade do conteúdo ora estudado com a Ciência de Dados. Assim, sigo estudando esta ampla área do conhecimento. Percebi que tudo é uma continuação de saberes, vamos em frente!🚀
 
 Meus principais temas de estudo são: Machine Learning, Deep Learning, Séries Temporais, Python e Estatística.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simoneangelo/)](https:/https://www.linkedin.com/in/simoneangelo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=simonealdrey@gmail.com)](simonealdrey@gmail.com)
-
-
+  <a href="https://www.linkedin.com/in/simoneangelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:simonealdrey@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/simonealdrey" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
 
  <div>
   <a href="https://github.com/Simonealdrey">
