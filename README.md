@@ -1,6 +1,7 @@
 ## Bem-vindo ao meu perfil 
 
-👱🏼‍♀️ Meu nome é Simone Aldrey Angelo, sou mestre e doutora em Pesquisa Operacional na área de Estatística. Ao término de minha trajetória acadêmica percebi a grande afinidade do conteúdo ora estudado com a Ciência de Dados. Assim, sigo estudando esta ampla área do conhecimento. Percebi que tudo é uma continuação de saberes, vamos em frente!🚀
+👱🏼‍♀️ Meu nome é Simone Aldrey Angelo, sou engenheira e doutora em Pesquisa Operacional na área de Estatística. Em minha trajetória acadêmica percebi a grande afinidade existente entre Ciência de Dados e o conteúdo de minhas pesquisas. Assim, sigo trabalhando e aprofundando nesta ampla área do conhecimento. Percebi que tudo é uma continuação de saberes, sigamos sempre em frente!
+ 
 
 Meus principais temas de estudo são: Machine Learning, Deep Learning, Séries Temporais, Python e Estatística.
 
